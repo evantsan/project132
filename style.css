@@ -1,0 +1,26 @@
+body {
+  background-image: linear-gradient(
+    to top,
+    #051937,
+    #004d7a,
+    #008793,
+    #00bf72,
+    #a8eb12
+  );
+}
+a {
+  background-color: white;
+  width: 40%;
+  height: 50px;
+  color: black;
+  font-size: 25px !important;
+  border-radius: 30px !important;
+  font-weight: bolder !important;
+}
+
+a:hover {
+  height: 75px;
+  width: 900px;
+  font-size: 40px !important;
+  color: red !important;
+}
